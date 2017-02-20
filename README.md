@@ -1,6 +1,8 @@
 # AucklandMap
 University Assignment for Algorithms and Data Structures. Created a map of Auckland
 
+###To run this program, please compile and run the *AucklandMap.java* file 
+
 <h1>The Brief</h1>
 The Assigment Requires you to build a program that will read a collection of files con- taining information about the roads in the Auckland region, display the information visually, and let the user view and search the data in several ways. The program will need several large data structures, and the key challenge of the assignment is to implement those data structures.
 
